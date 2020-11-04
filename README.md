@@ -10,7 +10,7 @@
 #### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
  ``` python
-#biodata Siti Latifah - 312010321
+#Biodata Siti Latifah - 312010321
 
 #mengambil input
 namaLengkap = input ("nama lengkap:")
@@ -64,8 +64,8 @@ Bagian yang berada didalam tanda kutip seperti “My name is” akan ditampilkan
 ![Screenshot (14)](https://user-images.githubusercontent.com/73010098/98108318-539fa600-1ece-11eb-9496-6b42069c8dd3.png)
 
 ### PENGGUNAAN END
-#### SYNTAX
-berikut merupakan syntax untuk menampilkan program diatas
+#### INPUT
+berikut merupakan input untuk menampilkan program diatas
 ``` python
 #penggunaan end
 print ('A', end='')
@@ -78,13 +78,12 @@ print ('Z')
 ```
 
 #### OUTPUT
-Dibawah ini merupakan hasil output dari syntax diatas
+Dibawah ini merupakan hasil output dari syntak diatas
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/73010098/98109215-c8bfab00-1ecf-11eb-8684-9e71ac3e9c8f.png)
 
 #### ANALISIS
-•	Perintah end berguna untuk memberi garis baru/newline namun apabila value dari end maka statement yang dicetak tidak akan memberi garis baru seperti output diatas.
-
+•	Perintah end berguna untuk memberi karakter diakhir baris dipisah oleh tanda koma (,)
 ### PENGGUNAAN SEPARATOR
 #### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
@@ -105,7 +104,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 
 #### ANALISIS
-•	Perintah separator berfungsi untuk memberi pemisah seperti koma( , ), titik dua( : )dan lain sebagainya seperti pada syntax diatas.
+•	Perintah separator berfungsi untuk memberi pemisah seperti koma( , ), titik dua( : ).
 
 ### PENGGUNAAN STRING
 #### SYNTAX
@@ -186,13 +185,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/73010098/98110289-767f8980-1ed1-11eb-8935-45e87e6841fb.png)
 
-
-
-
-#### ANALISIS
-•	Statement %d berfungsi untuk wadah menyimpan variabel a, b, dan hasil setelah dipanggil kembali oleh statement % (a, b, hasil))
-
-
+~AUTHOR SITI LATIFAH - 312010321~
 
 
 
