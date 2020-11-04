@@ -1,8 +1,8 @@
 # Tugas-biodata-dan-projek_praktikum
-**Nama	  	: Siti Latifah** <br>
-**Nim	  	: 312010321** <br>
+**Nama	   	: Siti Latifah** <br>
+**Nim	  	  : 312010321** <br>
 **Kelas	  	: TI.20.A2** <br>
-**Matkul	: Bahasa Pemrograman** <br>
+**Matkul	  : Bahasa Pemrograman** <br>
 
 ## Tugas Pertemuan 5 (Biodata)
 ![Screenshot (7)](https://user-images.githubusercontent.com/73010098/98107335-fb1bd900-1ecc-11eb-87f4-585d4db60bff.png)
@@ -35,7 +35,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![Screenshot (8)](https://user-images.githubusercontent.com/73010098/98107746-8b5a1e00-1ecd-11eb-846f-16e4f03d1f63.png)
 
 
-#### ANALISIS
+#### PENJELASAN
 •	Variabel adalah merupakan tempat untuk menyimpan data yang data-data tersebut dapat diambil/dipanggil kembali apabila dibutuhkan.
 Pada syntak diatas namaLengkap, namaPendek, nim, tempatLahir, umur, alamat, dan noHp merupakan variabel. <br>
 •	Pada program diatas kita akan menginputkan data yang akan disimpan di variabel pada #mengambil input menggunakan syntax seperti  <br>
@@ -82,7 +82,7 @@ Dibawah ini merupakan hasil output dari syntak diatas
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/73010098/98109215-c8bfab00-1ecf-11eb-8684-9e71ac3e9c8f.png)
 
-#### ANALISIS
+#### PENJELASAN
 •	Perintah end berguna untuk memberi karakter diakhir baris dipisah oleh tanda koma (,)
 ### PENGGUNAAN SEPARATOR
 #### SYNTAX
@@ -103,7 +103,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![Screenshot (10)](https://user-images.githubusercontent.com/73010098/98109359-0290b180-1ed0-11eb-86d3-3adfc30f73e3.png)
 
 
-#### ANALISIS
+#### PENJELASAN
 •	Perintah separator berfungsi untuk memberi pemisah seperti koma( , ), titik dua( : ).
 
 ### PENGGUNAAN STRING
@@ -130,7 +130,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 ![Screenshot (11)](https://user-images.githubusercontent.com/73010098/98109567-6024fe00-1ed0-11eb-9ee7-dc97d87fbd09.png)
 
 
-#### ANALISIS
+#### PENJELASAN
 •	Penggunaan string ** pada syntax diatas berfungsi untuk mencetak hasil pangkat, mulai dari 10 pangkat 0 sampai 10 pangkat 10
 
 ### PENGGUNAAN STRING FORMAT
@@ -156,7 +156,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/73010098/98109749-aa0de400-1ed0-11eb-821d-2b158c7644b8.png)
 
-#### ANALISIS
+#### PENJELASAN
 •	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri. <br>
 •	Untuk statement .format(0, 10** 0)) berfungsi untuk mencetak angka 0 dan hasil dari 10 pangkat 0 
 ### Tugas Pertemuan 6 Lab 2
