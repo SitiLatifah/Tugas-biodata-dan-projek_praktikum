@@ -185,7 +185,7 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/73010098/98110289-767f8980-1ed1-11eb-8935-45e87e6841fb.png)
 
-~AUTHOR SITI LATIFAH - 312010321~
+##AUTHOR SITI LATIFAH - 312010321
 
 
 
